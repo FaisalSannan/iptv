@@ -1,4 +1,53 @@
-#EXTINF:-1 tvg-name="S01 E01" group-title="1883"
-https://nagla19102021n.kobatube.online/hls1/zt6vVU35IYRPx6yNFKlNJA/1640528897/CimaClub.Cam-1883.s01e01.720p.x264.aac-720.55690.mp4/index.m3u8
-#EXTINF:-1 tvg-name="S01 E02" group-title="1883"
-https://rashford7-3182021n.kobatube.online/hls/4XZf7HG9CG33jGLWiWQQlg/1640529226/CimaClub.Cam-1883.s01e02.720p.x264.aac-720.55694.mp4/index.m3u8
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" group="Season 7", 16
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/45nxD9pJuM9WJbi_Nyac0Q/1649566880/all/all/94.99.117.236/no/XX/0/03-02/4/3a663b4f82be62efd6fa942d2642e89f/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 7", 17
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/Wtp-kffpOvxg6B3aCN8l8Q/1649567358/all/all/94.99.117.236/no/XX/0/06-02/1/68dea883430473e816934380290ad63c/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 7", 18
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/av4r1pdab2SawSNkKCgODg/1649567377/all/all/94.99.117.236/no/XX/0/03-02/3/67d2503e98829bf175e071b7a81fac89/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 7", 19
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/uI9Rdk4r887uRw-IoT6mNw/1649567389/all/all/94.99.117.236/no/XX/0/05-02/4/6636b5a0971339b2f39f87aede9b8724/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 1
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/IfKfxTy8T7mR0Wp3u5-sbA/1649567411/all/all/94.99.117.236/no/XX/0/08-02/4/2eb8392041a48d4863d262dea9cf1aa2/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 2
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/nxVC54x_p30wewZetaYVnQ/1649567434/all/all/94.99.117.236/no/XX/0/05-02/4/db8e5c248a20cc3b36a6241cce06272e/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 3
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/esRwyiV8THUw_YmScFQRZQ/1649567452/all/all/94.99.117.236/no/XX/0/03-02/4/e8b60a36c132750f9374d7dd2f27947e/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 4
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/9ZCCxqhracxEsF6JvbaLFQ/1649567483/all/all/94.99.117.236/no/XX/0/07-02/2/6a30f8a6c52add4fa2319572e4909a32/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 5
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/q0QkVe5ezcobbYxPPnVMxw/1649567508/all/all/94.99.117.236/no/XX/0/05-02/3/90ab61e67e023bea796c20853e2f42d5/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 6
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/K_MswoAfSaLzEF8IQ2gqoA/1649567524/all/all/94.99.117.236/no/XX/0/06-02/1/28fd6c84798d263a6a8863c5d2c92e4c/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 7
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/6cHFqU4H2e0NHP8KfM2pUw/1649567560/all/all/94.99.117.236/no/XX/0/01-02/4/b8ad3c937ee33ae2a6f1684e8e5c88d8/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 8
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/ZM2JFaKXm-CA3hiqDeD3Eg/1649567586/all/all/94.99.117.236/no/XX/0/04-02/3/572922b06790097486a1697e7552988b/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 9
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/Y8qRNCxg97FE2JFuatUI0Q/1649567606/all/all/94.99.117.236/no/XX/0/01-02/1/2724f123511ff8b6e87a49c9ffc5750b/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 10
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/aE-alMpIgjagrct5Cxz6CA/1649567722/all/all/94.99.117.236/no/XX/0/01-02/4/a1d409894f74a21cada25a4e761663c2/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 11
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/M7P1F2VaWYnjvloowetxeg/1649567739/all/all/94.99.117.236/no/XX/0/07-02/4/a5e4d6276b62b3d5db267eb20274efa0/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 12
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/oiRIUF2nlo7YhCazciN8pw/1649567750/all/all/94.99.117.236/no/XX/0/07-02/3/ff530747d5de5e031bdf0096a3ca3f13/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 13
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/e5JDKrfYE0QwVPmr3_AmSQ/1649567761/all/all/94.99.117.236/no/XX/0/01-02/4/b7442077bc95d16300554b7b2a0e5657/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 14
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/w47FcQE3x3cP_p8n3LUKBg/1649567773/all/all/94.99.117.236/no/XX/0/01-02/3/b2eeb4a0b391072b5bf312fb401f8098/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 15
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/Ok92-2JELgMjeVlKtFmx5A/1649567826/all/all/94.99.117.236/no/XX/0/07-02/1/2b93b53b97391ed57084ec4342229ab5/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 16
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/56ly6lrGVYrS6zjO0TQRIA/1649567845/all/all/94.99.117.236/no/XX/0/02-02/3/20a5615fed95b658ffc2c65d75d09752/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 17
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/KeC3EsMRHXTLbThJ4OR4sw/1649567857/all/all/94.99.117.236/no/XX/0/08-02/1/dd48291c049f55dae37a9b3aaf6b85b5/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 18
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/hY__lWbvlX0H2H2JxwnYAw/1649567867/all/all/94.99.117.236/no/XX/0/03-02/1/2d9ed975ae096573cdf141f4cbd881c8/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 19
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/rJdqAiRt0mCYflffRTeRzQ/1649567877/all/all/94.99.117.236/no/XX/0/06-02/2/f686a68e6b41e2b6e3238e1fca139694/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 20
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/9KGJlIAB1ztlom6OpIVVcA/1649567890/all/all/94.99.117.236/no/XX/0/06-02/2/07d7858dbaf7b04a77c96bcd211affbe/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8", 21
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/ZnZ-pupVVZOQWyZp99bKlQ/1649567903/all/all/94.99.117.236/no/XX/0/02-02/1/110b1eb2e4b788dcd6febaf4c9ef8fd1/160_hd1080b_playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Season 8" aspect-ratio="16:9" size="Small", 22
+https://r22--bjkn4ifh.c.scdn.to/stream/v1/hls/BCLNF1AKRHY2-Yo4up54vA/1649567915/all/all/94.99.117.236/no/XX/0/03-02/3/586a5c25b0e132fef45ccc3f9bfeb917/160_hd1080b_playlist.m3u8
